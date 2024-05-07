@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1715093685 source:c:\users\gusta\onedrive\Área de trabalho\pastas_gerais\fatec\2_semestre\prog_ii\jogo_quiz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<Windows.h>
+
